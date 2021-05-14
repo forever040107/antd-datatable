@@ -1,0 +1,8 @@
+.App {
+  padding: 20px;
+}
+
+.ant-table-tbody > tr > td {
+  word-wrap: break-word;
+  word-break: break-all;
+}
