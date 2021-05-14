@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/29602038/118209798-e895e400-b49b-11eb-97cf-c593caabe65a.png" alt="" width="320" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
